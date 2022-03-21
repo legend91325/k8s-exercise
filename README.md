@@ -10,6 +10,11 @@ k8s exercise
 ### 免费学习资料
 [CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises)
 [ckad-prep](https://github.com/bmuschko/ckad-prep)
+
+
+```shell
+kubectl explain pod.spec.containers.livenessProbe
+```
 #### kube-ladder
 **地址：**[kube-ladder](https://github.com/caicloud/kube-ladder)
 **简介：**
